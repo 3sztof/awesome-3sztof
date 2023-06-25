@@ -18,7 +18,9 @@ A loosely curated list of the software project I found useful (or just simply am
 
 | Name | Repository | Description | Must Have? |
 | --- | --- | --- | --- |
-| [DopeGuru](https://github.com/arsenetar/dupeguru) | [<img align="right" src="[https://img.shields.io/github/stars/arsenetar/dupeguru?label=%E2%AD%90%EF%B8%8F](https://github.com/arsenetar/dupeguru)&logo=github" alt="Stars"><br><img align="right" src="https://img.shields.io/github/issues-raw/arsenetar/dupeguru" alt="Issues"><br><img align="right" src="https://img.shields.io/github/last-commit/arsenetar/dupeguru">](https://github.com/arsenetar/dupeguru) | Duplicate file finder, great for reducing disk utilization | 🌟 | 
+| [DopeGuru](https://github.com/arsenetar/dupeguru) | [<img align="right" src="[https://img.shields.io/github/stars/arsenetar/dupeguru?label=%E2%AD%90%EF%B8%8F&logo=github" alt="Stars"><br><img align="right" src="https://img.shields.io/github/issues-raw/arsenetar/dupeguru" alt="Issues"><br><img align="right" src="https://img.shields.io/github/last-commit/arsenetar/dupeguru">](https://github.com/arsenetar/dupeguru) | Duplicate file finder, great for reducing disk utilization | 🌟 | 
+
+| [dummy-repo](https://github.com/dummy/dummy-repo) | [<img align="right" src="https://img.shields.io/github/stars/dummy/dummy-repo?label=%E2%AD%90%EF%B8%8F&logo=github" alt="Stars"><br><img align="right" src="https://img.shields.io/github/issues-raw/dummy/dummy-repo" alt="Issues"><br><img align="right" src="https://img.shields.io/github/last-commit/dummy/dummy-repo">](https://github.com/dummy/dummy-repo) | Dummy description| 🌟 | 
 
 ## Dummysection
 
